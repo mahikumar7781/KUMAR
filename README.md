@@ -1,2 +1,18 @@
-# KUMAR
-A simple static website built using HTML, CSS, and JavaScript. This project contains the frontend files for my personal or demo website. The site includes responsive design, basic styling, and interactive elements
+# My Website
+
+This is a simple static website created using plain HTML, CSS, and JavaScript.
+
+## Features
+- Fully responsive design
+- Clean layout
+- Easy to navigate
+- No backend required
+
+## Deployment
+
+This site is deployed using GitHub Pages.
+
+## Author
+
+- KUMARASWAMY
+- Contact: kumaraswamyk495@gmail.com
